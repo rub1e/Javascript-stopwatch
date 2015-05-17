@@ -1,6 +1,6 @@
 # Javascript stopwatch  
 
-This is a javascript stopwatch, based in part on [this Qunit tutorial] (https://github.com/docdis/learn-qunit). It has the following functions:  
+This is a javascript stopwatch, based in part on [this Qunit tutorial] (https://github.com/docdis/learn-qunit) but without any jquery. It has the following functions:  
 
 * Start/continue
 * Stop/pause
@@ -8,3 +8,4 @@ This is a javascript stopwatch, based in part on [this Qunit tutorial] (https://
 * Reset
 
 It's not pretty, but it gets the job done.
+
