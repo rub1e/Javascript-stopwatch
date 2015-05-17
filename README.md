@@ -1,10 +1,10 @@
 # Javascript stopwatch  
 
-This is a javascript stopwatch, based in part on [this Qunit tutorial] (https://github.com/docdis/learn-qunit). It will have the following functions:  
+This is a javascript stopwatch, based in part on [this Qunit tutorial] (https://github.com/docdis/learn-qunit). It has the following functions:  
 
 * Start/continue
 * Stop/pause
-* Split
+* Split (record split times)
 * Reset
 
-I might make it look pretty, I might not.
+It's not pretty, but it gets the job done.
